@@ -33,11 +33,5 @@ This will return `true` if the robots collide and `false` otherwise.
 - The program does not allow conversion between term-based numbers and built-in numerical representations.
 - Movement lists must only contain the elements `{e, w, n, s}`.
 
-## Future Improvements
-- Extend support for additional obstacles on the grid.
-- Implement a visualization of robot movements.
-- Optimize performance for large movement sequences.
 
-## Author
-Developed as part of an AI-based logical programming exercise in Prolog.
 
